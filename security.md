@@ -3,7 +3,7 @@
 ## Reporting a Vulnerability
 If you discover a security issue in this repository, please report it responsibly.  
 1. **Do NOT** disclose it publicly before it's addressed.  
-2. Email **[your_email@example.com]** or open a private issue (if enabled).  
+2. Email **[mansjobs@icloud.com]** or open a private issue (if enabled).  
 3. Provide detailed information, including reproduction steps.  
 
 ## Supported Versions
