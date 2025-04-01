@@ -1,0 +1,14 @@
+[
+    {
+        "id": "001",
+        "category": "Logical Deduction",
+        "context": "A store has a 'Buy 2, Get 1 Free' offer. Alice needs to buy 6 items. What is the minimum she should pay for?",
+        "chain_of_thought": [
+            "The offer gives 1 free item for every 2 purchased.",
+            "Buying 2 items gets 1 free \u2192 Buying 4 items gets 2 free.",
+            "If Alice needs 6, she should buy only 4, getting 2 free."
+        ],
+        "final_decision": "Alice pays for 4 items instead of 6.",
+        "reasoning_type": "Logical, Mathematical"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "id": "003",
+        "category": "Ethical Decision-Making",
+        "context": "A self-driving car must choose between hitting a pedestrian or swerving into a barrier, injuring the passenger.",
+        "chain_of_thought": [
+            "Consider legal and ethical frameworks (e.g., prioritize least harm).",
+            "Analyze real-time risk: What is the survival probability for both?",
+            "Determine ethical balance: Should the car prioritize the driver who owns it or the pedestrian who is uninvolved?",
+            "Opt for a decision that aligns with safety regulations and social expectations."
+        ],
+        "final_decision": "The AI follows the least-harm principle, possibly slowing down or taking an alternative route.",
+        "reasoning_type": "Ethical, Moral"
+    }
+]

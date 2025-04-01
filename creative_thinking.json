@@ -1,0 +1,15 @@
+[
+    {
+        "id": "002",
+        "category": "Creative Thinking",
+        "context": "A startup wants a unique brand identity for eco-friendly tech.",
+        "chain_of_thought": [
+            "Identify the brand\u2019s core values: sustainability + innovation.",
+            "Use a name that reflects nature + technology (e.g., 'GreenSync').",
+            "Design a logo with a minimal carbon footprint (e.g., green circuit board theme).",
+            "Create a launch strategy with a viral social media campaign."
+        ],
+        "final_decision": "The brand identity is centered around 'GreenSync' with a nature-tech fusion.",
+        "reasoning_type": "Creative, Branding"
+    }
+]
